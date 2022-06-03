@@ -1,0 +1,23 @@
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #3300ff;
+    font-style: oblique;
+    font-size: larger;
+    
+}
+body{
+    background-color: aqua;
+}
+h1{
+    margin: 10px 10px 10px 10px;
+    font-style: italic;
+}
+h2{
+    margin: 10px 10px 10px;
+}
+h3{
+    margin: 10px 10px;
+}
+h4{
+    margin: 1px;
+}
